@@ -8,7 +8,7 @@
 <ol>
     <li>Gather Requirements/Clairfy Problem</li>
     <li>Break Problem Down</li>
-    <li>Psuedocode</li>
+    <li>Pseudocode</li>
     <li>Real Code</li>
     <li>Testing</li>
     <li>Changes</li>
